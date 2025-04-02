@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @banhegyi
-- 👀 I’m interested in python, SQL
+- 👀 I’m interested in Python, SQL, back end ...
 - 🌱 I’m currently learning as data science
 - 💞️ I’m looking to collaborate on little back end project with Python, Flask...
 - 📫 How to reach me ati.banhegyi@gmail.com
